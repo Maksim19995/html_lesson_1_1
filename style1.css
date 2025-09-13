@@ -1,0 +1,24 @@
+.shadowbox {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid #363232;
+  box-shadow: 8px 8px 5px #424040;
+  padding: 8px 12px;
+  background-image: linear-gradient(180deg, #9b9595, #ddd 40%, #ccc);
+}
+.container{
+   max-width: auto;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: auto;
+    padding-right: auto;
+    border: 1px solid #664040;
+    box-shadow: 8px 8px 5px #362a2a;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: auto;
+}
